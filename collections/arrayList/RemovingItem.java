@@ -4,7 +4,7 @@
  *
  *  Remove integer items from an ArrayList by index and item value.
  *
- *  % java RemovingItem 32332211110
+ *  % java RemovingItem 
  *  Number = 11
  *  Number = 22
  *  Number = 33
