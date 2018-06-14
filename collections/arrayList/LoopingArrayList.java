@@ -1,6 +1,6 @@
 /******************************************************************************
  *  Compilation:  javac LoopingArrayList.java
- *  Execution:    java LoopingArrayList arg
+ *  Execution:    java LoopingArrayList
  *
  *  Convert an Array to two List variables to see the difference between 
  *  a wrapper class and a new instance.
@@ -30,8 +30,10 @@
  *  third
  *
  ******************************************************************************/
+
 import java.util.ArrayList;
 import java.util.Iterator;
+
 class LoopingArrayList {
 	public static void main(String[] args) {
 		ArrayList<String> arrList = new ArrayList<String>();
