@@ -13,8 +13,8 @@
 - [Copying ArrayList](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure/collection/arrayList/CopyingArrayList.java)
 - [Looping ArrayList](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure/collection/arrayList/LoopingArrayList.java)
 - [Removing Items from ArrayList](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure/collection/arrayList/RemovingItem.java)
-- [Sorting ArrayList](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure/collection/arrayList/https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure//collection/arrayList/SortingArrayList.java)
-- [Comparator Sorting](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure/collection/arrayList/objectSort/objectSort/UsingComparator.java)
+- [Sorting ArrayList](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure//collection/arrayList/SortingArrayList.java)
+- [Comparator Sorting](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/data-structure/collection/arrayList/objectSort/UsingComparator.java)
 
 ### 1.3. Map
 
