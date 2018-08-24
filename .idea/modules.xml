@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-basics/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/java-basics/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basics/data-structure/collection/collection.iml" filepath="$PROJECT_DIR$/java-basics/data-structure/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs-java/cs-java.iml" filepath="$PROJECT_DIR$/cs-java/cs-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basics/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/java-basics/data-structure/data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basics/java-basics.iml" filepath="$PROJECT_DIR$/java-basics/java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basics/data-structure/map/map.iml" filepath="$PROJECT_DIR$/java-basics/data-structure/map/map.iml" />
+    </modules>
+  </component>
+</project>
