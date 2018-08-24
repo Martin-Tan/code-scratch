@@ -42,7 +42,7 @@
 - [Hadamard Matrix](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/HadamardMatrix.java)
 - [Inverse Permutation](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/InversePermutation.java)
 - [Reversing an Array](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/Reverse.java)
-- [Shuffle a  poker deck](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/Shuffle.java)
+- [Shuffle a  Poker Deck](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/Shuffle.java)
 - [Harmonic Sequence](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/HarmonicSequence.java)
 - [Mine Sweeper](https://github.com/Martin-Tan/code-scratch/blob/master/cs-java/array/MineSweeper.java)
 
