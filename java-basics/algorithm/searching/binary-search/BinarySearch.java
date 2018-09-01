@@ -4,7 +4,7 @@
  *
  *  Finding values from a list by using Binary Search.
  *
- *  % java java BinarySearch whiteList.txt < values.txt
+ *  % java BinarySearch whiteList.txt < values.txt
  *  Sorted white list: [12, 34, 56, 77, 88, 90, 103, 182, 200, 392]
  *  Can't find value: 1
  ******************************************************************************/
