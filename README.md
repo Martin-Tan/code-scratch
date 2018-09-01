@@ -30,6 +30,10 @@
 - [QuickSort](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/algorithm/sorting/QuickSort.java)  Θ(n log(n)), O(log(n)).
 - [BubbleSort](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/algorithm/sorting/BubbleSort.java) Θ(n^2), O(1).
 
+### 2.2 Searching
+
+- [Binary Search](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/algorithm/searching/binary-search/BinarySearch.java) Θ(log(n)), O(1)
+
 ### 2.2 Distance
 
 - [HammingDistance](https://github.com/Martin-Tan/code-scratch/blob/master/java-basics/algorithm/others/HammingDistance.java) Θ(n), O(1).
